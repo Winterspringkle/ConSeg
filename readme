@@ -1,1 +1,4 @@
 https://github.com/Winterspringkle/ConSeg
+Step1: Prepare your dataset.
+Step2: Set mode in train.py into "train" and run the script to train the model.
+Step3: Set mode in train.py into "test" and run the script to eval the model.
